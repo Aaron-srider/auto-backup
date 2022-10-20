@@ -42,3 +42,5 @@ node_modules/
 
 ### log file ###
 *.log
+
+*.tar.gz
